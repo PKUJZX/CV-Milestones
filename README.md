@@ -25,7 +25,7 @@
 
 示例：
 
-<img width="1734" height="1141" alt="image" src="https://github.com/user-attachments/assets/f1e35372-2531-4176-86fb-a3b023106cc8" />
+<img width="2023" height="487" alt="image" src="https://github.com/user-attachments/assets/c5b767d4-9af7-476e-9154-764e2cc597e5" />
 
 **2. 核心代码实现**
 
@@ -37,7 +37,12 @@
 
 一份全面的使用指南。它将对代码的整体结构进行概述，并提供 **step-by-step 的运行指令**，确保您能顺利地在本地环境中把代码跑起来，并看到可复现的示例结果，直观地感受算法效果。
 
+<img width="2047" height="387" alt="image" src="https://github.com/user-attachments/assets/b21eb4b7-9599-428c-9879-a1d6b78ea2dd" />
+
+
 **4. `核心代码拆解.md`**
 
 一份深度的代码解读。我们将针对提炼出的2-3个核心代码文件，撰写专门的分析文档，**详细讲解其设计思路、关键函数的功能以及重要参数的意义**，真正做到“手把手”带您读懂核心代码。
+
+<img width="2016" height="272" alt="image" src="https://github.com/user-attachments/assets/0b21ed54-da1f-46d3-9503-867a52b7a7df" />
 
