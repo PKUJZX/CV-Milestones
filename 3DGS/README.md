@@ -40,4 +40,6 @@ python rasterizer.py
 
 #### 期望输出
 
-<img width="1751" height="1579" alt="image" src="https://github.com/user-attachments/assets/29b122ab-d1e0-403c-8894-f8f8094527d8" />
+<img width="1129" height="846" alt="image" src="https://github.com/user-attachments/assets/a1fb9b2b-07b5-45b9-aec3-65a91f085879" />
+
+
