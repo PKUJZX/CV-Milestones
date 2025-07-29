@@ -42,7 +42,7 @@ pip install torch torchvision numpy opencv-python matplotlib
 
 示例图像：
 
-<img src="C:\Users\admin'\AppData\Roaming\Typora\typora-user-images\image-20250729201832256.png" alt="image-20250729201832256" style="zoom:50%;" />
+<img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/2a47fc17-39b4-45ed-a290-b1c00b9796a3" />
 
 ##### **示例 1: 使用点提示进行分割**
 
@@ -52,7 +52,8 @@ pip install torch torchvision numpy opencv-python matplotlib
 python run.py --points 700 400 --labels 1
 ```
 
-<img src="C:\Users\admin'\AppData\Roaming\Typora\typora-user-images\image-20250729203020388.png" alt="image-20250729203020388" style="zoom:50%;" />
+<img width="2143" height="944" alt="image" src="https://github.com/user-attachments/assets/55237f42-2af2-48ff-a29e-24b28746c33a" />
+
 
 ##### **示例 2: 使用边界框提示进行分割**
 
@@ -62,4 +63,5 @@ python run.py --points 700 400 --labels 1
 python run.py --box 100 200 300 500
 ```
 
-<img src="C:\Users\admin'\AppData\Roaming\Typora\typora-user-images\image-20250729203139411.png" alt="image-20250729203139411" style="zoom:50%;" />
+<img width="2105" height="857" alt="image" src="https://github.com/user-attachments/assets/fea1e283-d2c9-4823-956a-186cb0758cb1" />
+
