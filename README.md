@@ -37,6 +37,8 @@
 
 一份全面的使用指南。它将对代码的整体结构进行概述，并提供 **step-by-step 的运行指令**，确保您能顺利地在本地环境中把代码跑起来，并看到可复现的示例结果，直观地感受算法效果。
 
+示例：
+
 <img width="2052" height="146" alt="image" src="https://github.com/user-attachments/assets/9aa1a09d-2637-4aff-9159-0bc9b1ccc60f" />
 <img width="2054" height="227" alt="image" src="https://github.com/user-attachments/assets/fade511e-7e98-427b-b831-e88d0e678f63" />
 
