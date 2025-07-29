@@ -40,4 +40,4 @@ python rasterizer.py
 
 #### 期望输出
 
-![image-20250729202531279](C:\Users\admin'\AppData\Roaming\Typora\typora-user-images\image-20250729202531279.png)
+<img width="1751" height="1579" alt="image" src="https://github.com/user-attachments/assets/29b122ab-d1e0-403c-8894-f8f8094527d8" />
