@@ -44,5 +44,7 @@
 
 一份深度的代码解读。我们将针对提炼出的2-3个核心代码文件，撰写专门的分析文档，**详细讲解其设计思路、关键函数的功能以及重要参数的意义**，真正做到“手把手”带您读懂核心代码。
 
+示例：
+
 <img width="2016" height="272" alt="image" src="https://github.com/user-attachments/assets/0b21ed54-da1f-46d3-9503-867a52b7a7df" />
 
