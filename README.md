@@ -25,7 +25,8 @@
 
 示例：
 
-<img width="2023" height="487" alt="image" src="https://github.com/user-attachments/assets/c5b767d4-9af7-476e-9154-764e2cc597e5" />
+<img width="2027" height="508" alt="image" src="https://github.com/user-attachments/assets/fb20ab4d-0f92-4040-86ae-b3ccf22cbac4" />
+
 
 **2. 核心代码实现**
 
