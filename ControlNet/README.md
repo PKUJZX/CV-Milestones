@@ -28,7 +28,8 @@ python infer.py
 
 该 Canny 边缘图和 `Prompt` (如"A golden retriever dog running on the beach") 被输入给 ControlNet ,生成最终图像。
 
-![image-20250729232538959](C:\Users\admin'\AppData\Roaming\Typora\typora-user-images\image-20250729232538959.png)
+<img width="1536" height="512" alt="image" src="https://github.com/user-attachments/assets/c9ba1bd1-0651-40fc-bec2-a81e64d5bd1d" />
+
 
 您也可以使用自己的图片和Prompt，例如：
 
