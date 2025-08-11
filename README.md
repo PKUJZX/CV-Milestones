@@ -23,11 +23,6 @@
 
 一份精炼的技术文档。我们将借助 Markdown 和 LaTeX 公式，清晰、准确地梳理论文的核心脉络与算法原理，帮助您快速构建理论基础。
 
-示例：
-
-<img width="2027" height="508" alt="image" src="https://github.com/user-attachments/assets/fb20ab4d-0f92-4040-86ae-b3ccf22cbac4" />
-
-
 **2. 核心代码实现**
 
 我希望将官方代码进行彻底地重构与简化，剥离与核心思想无关的辅助性模块（如复杂的配置、分布式训练等），提炼出 **2-3个最能体现算法精髓的核心代码文件**。这些文件将包含详尽的逐行注释，旨在让读者能够轻松理解每一行代码背后的逻辑与意图。
@@ -38,19 +33,9 @@
 
 一份全面的使用指南。它将对代码的整体结构进行概述，并提供 **step-by-step 的运行指令**，确保您能顺利地在本地环境中把代码跑起来，并看到可复现的示例结果，直观地感受算法效果。
 
-示例：
-
-<img width="2052" height="146" alt="image" src="https://github.com/user-attachments/assets/9aa1a09d-2637-4aff-9159-0bc9b1ccc60f" />
-<img width="2054" height="227" alt="image" src="https://github.com/user-attachments/assets/fade511e-7e98-427b-b831-e88d0e678f63" />
-
 
 **4. `核心代码拆解.md`**
 
 一份深度的代码解读。我们将针对提炼出的2-3个核心代码文件，撰写专门的分析文档，**详细讲解其设计思路、关键函数的功能以及重要参数的意义**，真正做到“手把手”带您读懂核心代码。
-
-示例：
-
-<img width="2016" height="272" alt="image" src="https://github.com/user-attachments/assets/0b21ed54-da1f-46d3-9503-867a52b7a7df" />
-
 
 
