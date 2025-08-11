@@ -42,4 +42,7 @@ python train_nerf.py
 python train_nerf.py
 ```
 
+
 渲染完成后，生成的视频（如 `video.mp4`）或图像序列会保存在 `logs` 目录下一个新的子文件夹中，例如 `renderonly_path_199999`。
+
+<img width="1668" height="746" alt="image" src="https://github.com/user-attachments/assets/b8e01a2b-6bc1-43cb-a5b5-8144403451b9" />
