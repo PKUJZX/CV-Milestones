@@ -32,6 +32,8 @@ python sample.py
 - 使用 VAE 解码器将这些潜在表示转换为图像。
 - 最后，将生成的 8 张图像保存在一个名为 `sample.png` 的文件中。
 
+<img width="1034" height="518" alt="image" src="https://github.com/user-attachments/assets/c3b3cbb6-602c-4692-b6a2-17f7f8c722bb" />
+
 #### **第四步：运行训练 (可选，需要数据集和强大GPU)**
 
 如果您想自己训练模型，请注意这将需要：
@@ -64,6 +66,7 @@ python sample.py
    - 它会加载数据集，创建模型、优化器等。
    - 然后进入漫长的训练循环，定期在终端打印出损失（Loss）和训练速度。
    - 根据 `config.py` 中的 `ckpt_every` 设置，脚本会定期在 `checkpoints` 目录下保存模型的检查点文件（`.pt`）。
+
 
 
 
